@@ -187,12 +187,12 @@ This sample data needs to include robust, inclusive samples, otherwise outputs c
 
 The following are the steps common to most machine learning based projects:
 
-<img src= "https://github.com/RobZyg/Assignment-2/blob/master/ML.jpg" >
+<img src= "https://raw.githubusercontent.com/RobZyg/Assignment-2/master/ML.jpg" >
 Python tips, Introduction to Machine Learning and its Usage in Remote Sensing, https://pythontips.com/2017/11/11/introduction-to-machine-learning-and-its-usage-in-remote-sensing/ viewed 7 July 2019
 
 As illustrated above, the first two steps are about gathering the data and cleansing it to ensure that it is complete, accurate, consistent and unique. This data is then used to build the model to select the right algorithm in the step 3, that will then be used in step 4 to gain insights which can be done in a number of ways. Two of the most widely adopted machine learning methods are supervised learning and unsupervised learning, but there are other types such as semi-supervised and reinforcement learning which I will also examine (SAS 2019).
 
-<img src= "https://github.com/RobZyg/Assignment-2/blob/master/CML.jpg" > 
+<img src= "https://raw.githubusercontent.com/RobZyg/Assignment-2/master/CML.jpg" > 
 VAS3K, 2019, Machine Learning for everyone, https://vas3k.com/blog/machine_learning/
 
 Supervised learning algorithms are trained using labelled examples, such as an input where the desired output is known. (SAS 2019) As the example above illustrates using clothes. The clothes are sorted using a decision tree based on attributes known before ie socks labelled by colour - is it green or red, and ties by length – long or short. Often used for diagnostics, medicine and finance where historical data predicts future events (Vas3k 2019). Using methods like classification and regression, supervised learning uses patterns to predict the values of the label, that can then be used on additional unlabelled data, (SAS 2019) also known as data mining.
@@ -213,7 +213,7 @@ Deep learning is a subset of machine learning where artificial neural networks, 
 
 Neural networks are computing systems with interconnected nodes (illustrated by red and blue input and output points below) that work much like neurons in the human brain (SAS 2019). A Neural network is made up of a number of interconnected nodes and hidden layers. A hidden layer is any layer between the input layer and output layer and there can be multiple hidden layers (Zhou 2019). Using algorithms, neural networks can recognise hidden patterns and correlations in raw data, cluster and classify it, and, over time, continuously learn and improve. (SAS 2019)
 
-<img src= "https://github.com/RobZyg/Assignment-2/blob/master/SNN2.jpg" >
+<img src= "https://raw.githubusercontent.com/RobZyg/Assignment-2/master/SNN2.jpg" >
 Favio Vazquez, 22 December 2017, Deep Learning made easy with Deep Cognition in Becoming Human: Artificial Intelligence Magazine viewed 10 July 2019
 
 These are being used for virtual assistants like Alexa or Siri or Cortana, translations, autonomous cars, chatbots, facial recognition, personalised marketing and medical diagnosis, the list goes on (Marr 2019). Amazon used deep learning to train its software to analyse medical records. And according to Taha Kass-Hout, the software performed as well as or better than similar programs. It was also able to pull out data regarding patients' illnesses, prescriptions, lab orders and procedures, all of which is organized into a spreadsheet-like report. (Locklear - Engadget 2018). This work is currently done by around 60 people, so this advance has the potential to replace them in pulling data from approximately 500,000 patient records.
