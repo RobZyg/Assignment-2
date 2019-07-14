@@ -6,7 +6,7 @@
 - Australian
 
 Education:
--Bachelor of Information Technology (currently studying)
+- Bachelor of Information Technology (currently studying)
 - Certificate IV in Training and Assessment – 2007
 - Bachelor of Taxation 1997 (incomplete)
 - Certificate in Small Business Enterprise - 1996
