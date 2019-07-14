@@ -3,6 +3,7 @@
 ## Team Winterfell
 
 ### <a href="https://sway.office.com/95J6PEHbirhDgDnL?ref=Link&loc=play">Genevieve</a>
+(please note the hyperlinks to the Assignement 1 websites are each group member's name)
 
 Student ID: S3807717
 
