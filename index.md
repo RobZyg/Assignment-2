@@ -187,6 +187,31 @@ This sample data needs to include robust, inclusive samples, otherwise outputs c
 The following are the steps common to most machine learning based projects:
 
 <img src= "https://github.com/RobZyg/Assignment-2/blob/master/ML.jpg" >
+Python tips, Introduction to Machine Learning and its Usage in Remote Sensing, https://pythontips.com/2017/11/11/introduction-to-machine-learning-and-its-usage-in-remote-sensing/ viewed 7 July 2019
+
+As illustrated above, the first two steps are about gathering the data and cleansing it to ensure that it is complete, accurate, consistent and unique. This data is then used to build the model to select the right algorithm in the step 3, that will then be used in step 4 to gain insights which can be done in a number of ways. Two of the most widely adopted machine learning methods are supervised learning and unsupervised learning, but there are other types such as semi-supervised and reinforcement learning which I will also examine (SAS 2019).
+
+<img src= "https://github.com/RobZyg/Assignment-2/blob/master/CML.jpg" > 
+VAS3K, 2019, Machine Learning for everyone, https://vas3k.com/blog/machine_learning/
+
+### Supervised learning 
+algorithms are trained using labelled examples, such as an input where the desired output is known. (SAS 2019) As the example above illustrates using clothes. The clothes are sorted using a decision tree based on attributes known before ie socks labelled by colour - is it green or red, and ties by length – long or short. Often used for diagnostics, medicine and finance where historical data predicts future events (Vas3k 2019). Using methods like classification and regression, supervised learning uses patterns to predict the values of the label, that can then be used on additional unlabelled data, (SAS 2019) also known as data mining.
+
+Unsupervised learning is used against data that has no historical labels (SAS 2019). Following on with the example above, the clothing is not labelled at all, so you’re dividing up socks when you don’t know what colours you have (VAS3K 2019). The goal is to explore the data and find some groupings or structure within it (SAS 2019). It works well for grouping data with similar attributes or identifying the main attributes that differentiate data, such as in marketing campaigns.
+
+Semi-supervised learning is used for the same applications as supervised learning. But it uses both labelled and unlabelled data for training, typically a small amount of labelled data with a large amount of unlabelled data. This type of learning can be used with methods such as classification, regression and prediction. Semi-supervised learning is useful when the cost associated with labelling is too high to allow for a fully labelled training process. Early examples of this include identifying a person's face on a web cam (SAS 2019).
+
+Reinforcement learning is not related to assessing a data set or sets, it is carried out by processing the deluge of data from an environment, like those encountered by autonomous cars (VAS3K 2019). Using reinforcement learning, the algorithm discovers through trial and error what actions produce the greatest rewards (SAS 2019).  The goal is to minimise the error rate, accidents or injuries in the autonomous car example, not predict everything (VAS3K 2019). This type of learning has three primary components, the agent (the learner or decision maker), the environment (everything the agent interacts with), and actions (what the agent can do). The objective is for the agent to choose actions that maximize the expected reward over a given amount of time (SAS 2019).
+Machine learning over time
+
+As you can see this has been around since the 1980s so what is behind the lastest surge in popularity? New computing technologies are transforming machine learning so it is not like machine learning of the past. 
+
+
+
+
+
+
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
