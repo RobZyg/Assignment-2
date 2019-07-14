@@ -114,6 +114,60 @@ The highest ranked general skills that were not listed above, noting that there 
 
 Looking at the Burning Glass data our opinion has not changed based on the general and the IT skills required for any of the ideal jobs above, they are either highly sought after or reasonably highly sought after. As for the job titles all are in the top 20 IT jobs and more than half are in the top 10. 
 
+## IT Work
+
+Interviewing: Technical Lead for large technology company focusing on creating online platforms for other companies. 
+
+### 1.	Please tell us about your IT work. What exactly do you do?
+The company I work for is the largest independently owned company in Australia for website and online development. We offer a range of services such as mobile apps, but our main focus is website design. 
+My official role is Technical Lead, this means that I direct and manage a small team of people who work to launch and manage websites for large companies. As lead I have to manage and direct my team in their coding, while also overseeing their job performance and generally acting as a manager. 
+Another large part of my job is working with other teams within the business such as design and development. Often my I have to use my experience in projects to make recommendations and decisions about what software to use. After choosing a strategy and software to run with, I have to develop a plan within our team about who will do what. After assigning work and delegating tasks, I oversee the development of the project within the team. 
+
+### 2.	Please tell us about the industry you work in. 
+The IT industry is very large, and depending on what area youre looking at it can range from very small independent companies to multinational giants. My company employs around 100 people, and our main competitor is Deloitte. Deloitte is obviously a very large company that specialises in many IT areas, whereas we focus primarily on website design. 
+The industry overall is quite competitive as more and more companies seek to establish themselves online in different ways. Previously I have worked for a very small companies with around 10 -15 people in them, who essentially did the same job but for smaller projects. Because of the competitiveness though there is also a lot of opportunity to expand your skills and move into better roles.  
+
+
+### 3.	What other kinds of work do you have to do? 
+Apart from the management of my team, I also help spend a lot of time coding myself. Out of a 5 days working week, around 3-4 of those days I would spend writing or adapting code. 
+
+I also deal directly with our design team and clients to help them formulate ideas around what is possible and what we can do for them. As I have experience within the industry, I can recommend certain ways to improve their plans or reach their goals in a realistic manner. 
+
+While my job is mainly back end, as lead I also play a role in sales and presentations to clients. I look at the initial plans that they bring us, conduct a quote on how much this would be likely to cost and then work to plan out how we can achieve what they want. I am also present in sales meetings and client presentations, where my job mainly involves explaining in a technical perspective what we will, or have been doing. 
+
+
+### 4.	Who are all the different people you interact with in your work? Please tell us about them.
+On a weekly basis I interact with a range of internal and external stakeholders. As we have to work to our client’s specifications, very often we will be working onsite within their company for most of the week. So, often that means travelling to different locations to work all day in different environments. Even when on site, we have a daily online or physical meeting with all the leads and project coordinators each morning. In this we discuss any issues, progress reports and relevant updates on our projects. 
+Client meetings also occur quite often as we coordinate with them to explain our progress and address any concerns they might have. Past clients that I have worked for include, Toyota, Carlton Football club and click frenzy. 
+
+Internally I deal mainly with our design team and strategy and user experience team. My team works closely with them to make sure we are delivering on all of our goals in an effective way. 
+
+### 5.	Please tell us about your interactions with other IT professionals? 
+Within my organisation the main IT professionals I deal with on a day to day basis are the team that I manage and my own direct manager who coordinates projects. Within my team i take on a leadership role that includes reviewing and editing code made by them, as well as strategizing with them to work past obstacles. We also have monthly development and coaching sessions, in which i sit down individually with each member of the team and discuss their overall aims within the business and how i can help realise them going forward. As previously mentioned i talk to my direct manager at least once a day each morning meeting. I also often coordinate with him by phone or email each day about the particulars of each project. 
+
+In a broader sense outside working hours, I normally interact with other IT workers at functions and events. It is quite common for a company to host an event with an open bar for people in certain IT fields. In this way, I often meet people in similar jobs to my own at separate companies. It is an excellent chance to socialise with people with similar skills and network. Plus it is a great way of staying up to date with any big events or technologies that have just been introduced within our field of expertise. 
+
+### 6. What about your interactions with clients or investors?
+My main interactions with clients can vary enormously depending on the need or desires of such client. My first interaction typically takes place via email or phone communication, in which i get a rough outline of what exactly a client is trying to achieve. After talking to other internal stakeholders about this, I work with the relevant other teams to estimate a quote for each client. If the client is interested further, they typically come in for a presentation on what exactly to expect while working with us. 
+If the presentation is successful and the client is willing to go forward, I would then be working to realise the clients needs and goals in more details. Depending on the client, this might be done through a dedicated liaison i sit down and meet with, or internally through a client manager in my own company. Depending on the set up of each project, i would then work closely with a plan developed by the client to set up their website. 
+
+
+### 7.      What aspects of your work do you spend most time on? Please tell us about these. 
+As I mentioned earlier, most of my time is taken up by actual coding work. Depending on what was being developed, I would use a range of systems or tools, including Github to coordinate with members of my team in working on code. 
+Aside from coding, the remainder of my time is split between managing my team’s time and efforts as well as coordinating with our client to make sure we are on the right track. 
+
+### 8. Which aspects of your work do you find most challenging? 
+While coding is the most time consuming and arduous part of my job, the most difficult part would come down to communication. Often at the first stages of any project I will work with a designer or development professional whose job it is to explain how they want the website to look or function. As we will be the ones building the website, I have to push back and explain in a simple way why this is not always possible. Sometimes I would have to suggest other alternatives we could go with to achieve a similar result. While most clients wishes can usually be done, often seeing them built would result in a range of other problems to the website. Often we have to find a compromise on each plan before it is launched, and come up with a roadmap of how to achieve it. It can be quite challenging trying to explain to a client with limited IT knowledge as to why we cannot actualise some of their plan. 
+
+### 9. Finally, can you share an example of the work you do that best captures the essence of the IT industry?
+The best example I can think of at the moment is our work on the Beyond Blue Facebook  chatbot that we recently created. It works in such a way that you a person can use it anytime and anywhere and be directed to the resources they need without a person being on the end answering their questions. It is programmed to recognise certain words and phrases and recommended them to certain helplines, websites or other areas depending on what they are looking for. 
+
+It  was a very typical project that required us to work more closely than usual with the client involved. Due to the very serious nature of what topics we were dealing with and the expected user bases mindset we wanted to be sure the functionality of the chatbot was as close to perfect as we could make it. We also had to work within the existing Beyond Blue website that was currently operating, which meant coordinating with the existing company that hosted it. 
+
+After a lot of edits and changes to the chatbot, we were finally able to complete it. It is now operating on the Beyond Blue facebook site. 
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
