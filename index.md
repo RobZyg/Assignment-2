@@ -171,7 +171,7 @@ duties to focus fully on what I consider are concrete steps towards my goal. Thi
 led me on multiple occasions to burn out and give up on something I had been trying
 to perfect.
 
- The online learning test was the biggest surprise for me. I have never considered my
+The online learning test was the biggest surprise for me. I have never considered my
 preferred style of learning, but before taking this test I would have guessed auditory. I
 often enjoy listening to books and podcasts, rather than reading or watching lectures.
 However the test classed me quite strongly as visual. I am not sure if I fully agree
@@ -187,6 +187,10 @@ of creativity and where most people and myself ranked.
 
 Complaints Manager
 This position involves handling a large number of complaints that have been escalated beyond the contact centres in which they started. The successful applicant would need to investigate complex cases within a large organisation, often spanning across multiple divisions or departments. They would also have to correspond with the complainants to reach a positive resolution, while also working to adhere to financial and business rules and regulations. Additionally, they would affect long term change by identifying and seeking to change business practises to reduce dissatisfaction in the future. 
+
+### Team profile
+
+The diversity of backgrounds and personality types in this group make for a successful team as we can call on our different strengths to carry out the different tasks and assist other group members where needed. Together we bring together a wealth of experience and diverse knowledge. We have varied learning styles with some predominantly visual and other kinaesthetic learners, with plenty of opportunities to apply both learning styles during this project.
 
 ## Industry Data
 
