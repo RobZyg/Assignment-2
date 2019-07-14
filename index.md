@@ -166,8 +166,25 @@ It  was a very typical project that required us to work more closely than usual 
 
 After a lot of edits and changes to the chatbot, we were finally able to complete it. It is now operating on the Beyond Blue facebook site. 
 
-### IT Technologies
+## IT Technologies
 
+### Machine learning
+
+Although most agree Machine learning is a branch of Artificial Intelligence, definitions and explanations of machine learning vary, including:
+
+Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves. (Expert system 2019), and 
+
+Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. (SAS 2019)
+
+But what does learn mean for computers, is it the same as learning for humans?  The Macquarie Dictionary defines learning as:
+Learning is to acquire knowledge of or skill in by study, instruction or experience (Macquarie 2010)
+Is this what it means for computers? How would we know when a computer has knowledge or a skill? Afterall, you can receive instruction without benefiting from it at all if it can’t be applied. It seems that learning in this context is more linked to performance and ability to apply learnings rather than building knowledge (Witten 2017).  
+This learning occurs by using algorithms and statistical models  in order to perform a specific task effectively without using explicit instructions, relying on patterns and inference instead. (Wikipedia 2019) These algorithms build mathematical models using sample data, known as training data, and they are able to adapt without being specifically programmed to do the task (Wikipedia 2019). They learn from previous computations to produce reliable, repeatable decisions and results. (SAS 2019)
+This sample data needs to include robust, inclusive samples, otherwise outputs can contain bias that can lead to misleading information that may advantage or disadvantage. Datasets used to train AI systems must be appropriate for the system they are used to train (Dawson - CSIRO 2019). Data use must be ethical and useful and must not allow unfair bias, breaches to privacy or security and be of sufficient quality and relevance for input into algorithms (Dawson - CSIRO 2019). If the data that is input is not appropriate, then the outputs will not be reliable.
+
+The Machine Learning Process
+
+The following are the steps common to most machine learning based projects:
 
 
 
