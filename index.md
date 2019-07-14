@@ -38,7 +38,7 @@ I have my own custom rig that I built a little over 2 years ago and love to play
 
 ### <a href="https://poddie62.github.io/RMIT/meandit">Tim</a> 
 
-I was born and raised in Victoria. My parents are both Australian; however my grandparents were Czech refugees, who fled to Australia after world war two. I am agnostic, but was educated at a private catholic school in Melbourne, before briefly attending Deakin University. After deferring at the end of the second semester, I opted to work fulltime instead. I started working in Superannuation in late 2017, and have been there since. In May of 2019 I decided to advance my education by studying a Bachelor of Business online with RMIT, while still working. I enjoy reading, playing games on computers and playing tennis. While growing up, I had a pet Miniature pig that lived in the house with us. His name was Christopher.
+I was born and grew up in Melbourne. My family lives across Melbourne and are mostly Australian. After finishing highschool I briefly attended Deakin University, studying a bachelor of arts. I deferred from the course after the second semester after realising I wanted to work fulltime rather than study. After working briefly in hospitality, I started working in finance for the National Australian Bank in 2017. Since then I have moved to a different company in a similar customer service role in Superannuation. Recently in May of 2019 I started studying a bachelor of business online with RMIT. When not working or studying, I enjoy playing tennis, reading, playing PC games and socialising. My main interest in IT stems from my childhood and job. Growing up I was always fascinated with how my family’s jobs were adapting based on the IT technology available. At work as well I rely strongly on a number of IT programs and platforms in order to deliver expected customer service and complex information to internal and external stakeholders. While I enjoy using these programs, I do not understand much beyond their surface level. I hope that this course will better educate me on how they function and how I can best use them going forward.
 
 ## Industry Data
 
@@ -165,6 +165,8 @@ The best example I can think of at the moment is our work on the Beyond Blue Fac
 It  was a very typical project that required us to work more closely than usual with the client involved. Due to the very serious nature of what topics we were dealing with and the expected user bases mindset we wanted to be sure the functionality of the chatbot was as close to perfect as we could make it. We also had to work within the existing Beyond Blue website that was currently operating, which meant coordinating with the existing company that hosted it. 
 
 After a lot of edits and changes to the chatbot, we were finally able to complete it. It is now operating on the Beyond Blue facebook site. 
+
+### IT Technologies
 
 
 
