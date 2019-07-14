@@ -3,9 +3,14 @@
 ## Team Winterfell
 
 ### <a href="https://sway.office.com/95J6PEHbirhDgDnL?ref=Link&loc=play">Genevieve</a>
+
+Student ID:S3807717
+
 I am originally from Young NSW, but I have lived in Canberra, Melbourne and Sydney. I am now back in Canberra where I work for the Australian Government. I have worked in many different fields during my career including customer service, training, information management and policy development. I enjoy many active pursuits and I’m currently training for City 2 Surf.
 
 ### <a href="https://github.com/Sakuramachi/My-Programs/blob/master/Assessment%201%20-%20Kim%20Chapman">Kim</a>
+
+Student ID: S3235809
 
 Hobbies and interests: Learning Japanese and Spanish, amateur astonomy, history, reading, gym and technology.
 Favourite TV series: Star Trek.
@@ -13,11 +18,36 @@ Favourite film genre: Historical Drama and Sci Fi.
 Favourite book series: Lord of the Rings.
 Interesting fact about myself: I did a year of high school exchange in the city of Nagoya, Japan. The friends I made from my exchange are still close friends today.
 
+#### Profile
+
+16 Personalites.com Personality Test
+
+Here we can see that my personality outcome is the 'Advocate' or INFJ-T. What this
+means is that I am mostly introverted and direct most of my mental energy towards
+my intuitive understanding of a situation or problem more so than observing.
+In addition to being less assertive in my interactions with other people. What this
+means for my behaviour when working in my team for the assignment is that I will
+most likely be the 'bond' of the group.
+
+Political Compass Test
+
+As we can see from my results, I fit into the 'left/libertarian' section of the political compass. I think that what this means for my interaction with my group, is again myself acting as the common bond or the 'diplomat' As my personal and political views are overall accepting of others and I believe this is what will enable me to both co-ordinate work tasks with my team members and mediate as well.
+
+Game of Thrones House Quiz
+
+This one was just for a bit of fun, however it is still relevant to my profile. As we can see from the result, I was placed in House Stark. I feel that this is apt as my parents are both from the UK, from Northern England and Scotland to be exact. I've always felt close to my northern English/Scottish heritage. The culture and history of the Stark's and the North in Games of Thrones was largely based on the northern parts of the UK in real life. How this relates to my co-operation with my group is that I do often times use a lot of parlance and colloquialisms from the region in my speech, I need to be wary that these aren't widely understand and should stic to a more 'standardised English' when communicating with members of my group and when creating input and text for the assignments.
+
+
+
 ### <a href="https://robzyg.github.io/Assignment1/">Robert</a>
+
+Student ID: S3795095
 
 I am originally from Melbourne and I moved up to Canberra about three years ago for work. I have a Master of Law and work as a Privacy Lawyer for a Government Department. I enjoy playing and watching sport such as Australian Rules Football and soccer.
 
 ### <a href="https://sebastian-tipping.github.io/cpt110-Assignment1/">Sebastian</a> 
+
+Student ID: S3752148
 
 I was born in Melbourne and have lived here all my life but have travelled around. 
 I am European and only speak English.
@@ -28,6 +58,8 @@ I have also done 2 previous University courses which have been General Physics t
 I have my own custom rig that I built a little over 2 years ago and love to play a variety of games.
 
 ### <a href="https://poddie62.github.io/RMIT/meandit">Tim</a> 
+
+Student ID:S3806967
 
 I was born and grew up in Melbourne. My family lives across Melbourne and are mostly Australian. After finishing highschool I briefly attended Deakin University, studying a bachelor of arts. I deferred from the course after the second semester after realising I wanted to work fulltime rather than study. After working briefly in hospitality, I started working in finance for the National Australian Bank in 2017. Since then I have moved to a different company in a similar customer service role in Superannuation. Recently in May of 2019 I started studying a bachelor of business online with RMIT. When not working or studying, I enjoy playing tennis, reading, playing PC games and socialising. My main interest in IT stems from my childhood and job. Growing up I was always fascinated with how my family’s jobs were adapting based on the IT technology available. At work as well I rely strongly on a number of IT programs and platforms in order to deliver expected customer service and complex information to internal and external stakeholders. While I enjoy using these programs, I do not understand much beyond their surface level. I hope that this course will better educate me on how they function and how I can best use them going forward.
 
