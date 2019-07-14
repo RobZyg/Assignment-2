@@ -172,9 +172,7 @@ After a lot of edits and changes to the chatbot, we were finally able to complet
 
 Although most agree Machine learning is a branch of Artificial Intelligence, definitions and explanations of machine learning vary, including:
 
-Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves. (Expert system 2019), and 
-
-Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. (SAS 2019)
+Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves. (Expert system 2019), and Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. (SAS 2019)
 
 But what does learn mean for computers, is it the same as learning for humans?  The Macquarie Dictionary defines learning as:
 Learning is to acquire knowledge of or skill in by study, instruction or experience (Macquarie 2010)
@@ -251,6 +249,49 @@ But Natural Language Processing is difficult because of the:
 
 As the example below illustrates, depending on how the language is broken down into smaller pieces can dramatically affect the processing of its meaning:
 
+<img src= "https://raw.githubusercontent.com/RobZyg/Assignment-2/master/ssnet.jpg" > 
+Shahriari, A, viewed 11 July 2019, Natural Language Processing in practice: Facts and fiction, https://www.slideshare.net/Chief_Data_Officer_Forum/cdao-public-sector-2019-arash-shahriari-department-of-education-and-training?
+
+Computational modelling of human language requires an understanding of:
+
+-	Morphology: structure of words
+-	Syntax: the way words are used to form phrases 
+-	Semantics: construction of meaning by syntax 
+-	Discourse: meaning in context (Shahriari 2019), and
+-	a general knowledge about the world. 
+
+Acquiring and encoding this knowledge is one of the fundamental impediments to developing effective and robust language systems (Ritkov 2005).
+
+Moore explains that to be able to make sense of all this information requires a combination of three capabilities: 
+> -	Natural language processing - Performs linguistic analysis that essentially helps a machine read text. It analyzes and converts text into form representations for text processing and understanding. This includes methods such as tokenization, part of speech tagging, stemming, named entity recognition and more.
+> -	Machine learning - Once NLP has been applied to text, machine learning uses the output for data mining and machine learning algorithms to automate the generation of key insights and descriptive analytics.
+> -	Human input - When it comes to analyzing text, human input is still incredibly important. Subject matter expertise is applied in the form of linguistic rules to help the machine capture slang, detect sarcasm and provide relevant context.
+
+The technology retrieves information to analyse unstructured text, then actively learns from the data through sentiment analysis and machine translation along with human direction to generate new insights. The purpose of this is to build and deploy text analytics models that enable understanding through topic detection, contextual extraction, document categorisation and sentiment analysis (SAS 2019).
+
+<img src= "https://raw.githubusercontent.com/RobZyg/Assignment-2/master/nlp.jpg" > 
+Ontotext, 2017, Top 5 Semantic Technology Trends to Look for in 2017, viewed 13 July 2019, https://www.ontotext.com/top-5-semantic-technology-trends-2017/
+
+### NLP and Deep Learning
+
+As illustrated in Shahriari’s example above, machine learning algorithms traditionally use well defined fixed-length inputs and outputs. But they cannot work with raw text directly; the text must be converted into numbers (specifically, vectors of numbers). This is called feature extraction or feature encoding, and this is one of the key areas where deep learning is challenging statistical methods with singular and simpler models. For this reason new methods are starting to outperform traditional statistical methods (Brownlee 2019). 
+
+The following are three examples of what deep learning is capable of in the in the field of natural language processing: (Brownlee 2019) 
+> -	Automatic Image Caption Generation - is the task where, given a photograph, the system must generate a caption that describes the contents of the image.
+> -	Automatic Translation of Text - is the task where you are given sentences of text in one language and must translate them into text in another language.
+> -	Automatic Text Classification - is the task of assigning a class label given a text document such as a review, tweet, or email. (Brownlee 2019)
+
+From these examples you can see that developing systems capable of these tasks would be valuable in a broad range of domains and industries. (Brownlee 2019) 
+
+### Chatbots
+
+Chatbots use deep learning capabilities to automate user interactions with websites and social media sites. They are designed to interact or converse with users either via text input or verbal conversation (Hubspot 2019). They aim to seamlessly create a fully online interaction, that is available anytime. 
+
+Sometimes though, users have unrealistic expectations of chatbots and expect that they will converse in the same way as another human would.  While this is a goal, it is not possible to do this yet using current technology (Botpress 2019). 
+
+An example of how this technology can still go wrong was Tay the Twitter chatbot, which was developed by Microsoft. Tay learned how to communicate with Twitter users to better understand how AI interacts with users. However, Tay only lasted 24 hours before being taken offline. As the inputs from users contained abusive content, Tay learned and created responses that were offensive, sexist and racist. The data being input was not appropriate, parameters were not sufficiently developed to filter these out, therefore outputs were not appropriate. (Dawson - CSIRO 2019).
+
+#### Other applications
 
 
 
