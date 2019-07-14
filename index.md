@@ -186,7 +186,7 @@ This sample data needs to include robust, inclusive samples, otherwise outputs c
 
 The following are the steps common to most machine learning based projects:
 
-<img src= "https://github.com/RobZyg/Assignment-2/ML.jpg" >
+<img src= "https://github.com/RobZyg/Assignment-2/blob/master/ML.jpg" >
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
