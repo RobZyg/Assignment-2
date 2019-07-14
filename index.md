@@ -1,10 +1,38 @@
-## Welcome to GitHub Pages
+# Assignment 2
+
+## Team Winterfell
+
+### Genevieve
+
+### Kim
+
+Hobbies and interests: Learning Japanese and Spanish, amateur astonomy, history, reading, gym and technology.
+Favourite TV series: Star Trek.
+Favourite film genre: Historical Drama and Sci Fi.
+Favourite book series: Lord of the Rings.
+Interesting fact about myself: I did a year of high school exchange in the city of Nagoya, Japan. The friends I made from my exchange are still close friends today.
+
+### Robert https://robzyg.github.io/Assignment1/
+
+I am originally from Melbourne and I moved up to Canberra about three years ago for work. I have a Master of Law and work as a Privacy Lawyer for a Government Department. I enjoy playing and watching sport such as Australian Rules Football and soccer.
 
 You can use the [editor on GitHub](https://github.com/RobZyg/Assignment-2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Sebastian
+
+I was born in Melbourne and have lived here all my life but have travelled around. 
+I am European and only speak English.
+
+I Am working on finishing high school through HomeSchooling by doing MathsTrack though Adelaide University:https://www.adelaide.edu.au/mathslearning/bridging/ 
+I have also done 2 previous University courses which have been General Physics though Murdoch University and then Introduction to Programming though RIMT
+
+I have my own custom rig that I built a little over 2 years ago and love to play a variety of games.
+
+### Tim
+
+I was born and raised in Victoria. My parents are both Australian; however my grandparents were Czech refugees, who fled to Australia after world war two. I am agnostic, but was educated at a private catholic school in Melbourne, before briefly attending Deakin University. After deferring at the end of the second semester, I opted to work fulltime instead. I started working in Superannuation in late 2017, and have been there since. In May of 2019 I decided to advance my education by studying a Bachelor of Business online with RMIT, while still working. I enjoy reading, playing games on computers and playing tennis. While growing up, I had a pet Miniature pig that lived in the house with us. His name was Christopher.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
