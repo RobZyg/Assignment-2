@@ -194,8 +194,7 @@ As illustrated above, the first two steps are about gathering the data and clean
 <img src= "https://github.com/RobZyg/Assignment-2/blob/master/CML.jpg" > 
 VAS3K, 2019, Machine Learning for everyone, https://vas3k.com/blog/machine_learning/
 
-### Supervised learning 
-algorithms are trained using labelled examples, such as an input where the desired output is known. (SAS 2019) As the example above illustrates using clothes. The clothes are sorted using a decision tree based on attributes known before ie socks labelled by colour - is it green or red, and ties by length – long or short. Often used for diagnostics, medicine and finance where historical data predicts future events (Vas3k 2019). Using methods like classification and regression, supervised learning uses patterns to predict the values of the label, that can then be used on additional unlabelled data, (SAS 2019) also known as data mining.
+Supervised learning algorithms are trained using labelled examples, such as an input where the desired output is known. (SAS 2019) As the example above illustrates using clothes. The clothes are sorted using a decision tree based on attributes known before ie socks labelled by colour - is it green or red, and ties by length – long or short. Often used for diagnostics, medicine and finance where historical data predicts future events (Vas3k 2019). Using methods like classification and regression, supervised learning uses patterns to predict the values of the label, that can then be used on additional unlabelled data, (SAS 2019) also known as data mining.
 
 Unsupervised learning is used against data that has no historical labels (SAS 2019). Following on with the example above, the clothing is not labelled at all, so you’re dividing up socks when you don’t know what colours you have (VAS3K 2019). The goal is to explore the data and find some groupings or structure within it (SAS 2019). It works well for grouping data with similar attributes or identifying the main attributes that differentiate data, such as in marketing campaigns.
 
@@ -206,9 +205,50 @@ Machine learning over time
 
 As you can see this has been around since the 1980s so what is behind the lastest surge in popularity? New computing technologies are transforming machine learning so it is not like machine learning of the past. 
 
+<img src= "https://github.com/RobZyg/Assignment-2/blob/master/AI.jpg" >
+The evolution of artificial intelligence, machine learning, and deep learning. (Image source: Tandon 2016)
 
+Deep learning is a subset of machine learning where artificial neural networks, algorithms inspired by the human brain, learn from large amounts of data. (Marr 2018). Deep learning combines advances in computing power and special types of neural networks to learn complicated patterns in large amounts of data (SAS 2019).
 
+Neural networks are computing systems with interconnected nodes (illustrated by red and blue input and output points below) that work much like neurons in the human brain (SAS 2019). A Neural network is made up of a number of interconnected nodes and hidden layers. A hidden layer is any layer between the input layer and output layer and there can be multiple hidden layers (Zhou 2019). Using algorithms, neural networks can recognise hidden patterns and correlations in raw data, cluster and classify it, and, over time, continuously learn and improve. (SAS 2019)
 
+<img src= "https://github.com/RobZyg/Assignment-2/blob/master/SNN2.jpg" >
+Favio Vazquez, 22 December 2017, Deep Learning made easy with Deep Cognition in Becoming Human: Artificial Intelligence Magazine viewed 10 July 2019
+
+These are being used for virtual assistants like Alexa or Siri or Cortana, translations, autonomous cars, chatbots, facial recognition, personalised marketing and medical diagnosis, the list goes on (Marr 2019). Amazon used deep learning to train its software to analyse medical records. And according to Taha Kass-Hout, the software performed as well as or better than similar programs. It was also able to pull out data regarding patients' illnesses, prescriptions, lab orders and procedures, all of which is organized into a spreadsheet-like report. (Locklear - Engadget 2018). This work is currently done by around 60 people, so this advance has the potential to replace them in pulling data from approximately 500,000 patient records.
+
+The potential applications seem limitless as deep learning algorithms continue to perform better as they gain more experience, however, it is good to keep in mind that ethical principles should be followed when developing and using them. These should include ensuring benefits are greater than costs, they cause no harm or disadvantage, they’re legal, protect privacy, transparent, contestable and creators are accountable for impacts of algorithms.
+
+References:
+-	Bernard Marr (Forbes 2018), viewed on July 2019, What Is Deep Learning AI? A Simple Guide With 8 Practical Examples, https://www.forbes.com/sites/bernardmarr/2018/10/01/what-is-deep-learning-ai-a-simple-guide-with-8-practical-examples/#4faa26308d4b 
+-	Expert system, July 2019, What is Machine Learning? A definition https://www.expertsystem.com/machine-learning-definition/ viewed 9 July 2019
+-	Favio Vazquez, 22 December 2017, viewed 10 July 2019, Deep Learning made easy with Deep Cognition in Becoming Human: Artificial Intelligence Magazine https://becominghuman.ai/
+-	Locklear M, Engadget 2018 https://www.engadget.com/2018/11/27/amazon-software-mine-medical-records/
+-	The Macquirie Library Pty Ltd, 2010, The Macquarie Dictionary, Third edition
+-	Python tips, 2017, viewed 10 July 2019, Introduction to Machine Learning and its Usage in Remote Sensing, https://pythontips.com/2017/11/11/introduction-to-machine-learning-and-its-usage-in-remote-sensing/ 
+-	SAS, 2019, viewed on 10 July 2019,Machine learning – What is it and why it matters, https://www.sas.com/en_au/insights/analytics/machine-learning.html 
+-	(SAS 2019), 2019, viewed on 10 July 2019, Neural Networks: What they are and why they matter https://www.sas.com/en_au/insights/analytics/neural-networks.html
+-	Tandon, K. (2016) AI & Machine Learning: The evolution, differences and connections https://www.linkedin.com/pulse/ai-machine-learning-evolution-differences-connections-kapil-tandon/
+-	VAS3K, 2019, viewed 7 July 2019, Machine Learning for everyone, https://vas3k.com/blog/machine_learning/ viewed 7 July 2019
+-	Wikipedia, 2019, viewed on 10 July 2019, https://en.wikipedia.org/wiki/Machine_learning#cite_note-bishop2006-2 
+-	Witten H, Frank E, Hall M, Pal CJ, 2017, viewed 10 July 2019, Data Mining: Practical Machine Learning Tools and Techniques 4th edition, https://books.google.com.au/books?hl=en&lr=&id=1SylCgAAQBAJ&oi=fnd&pg=PP1&dq=machine+learning&ots=8IFLpcnyta&sig=d7Yxy-RNub2pon9VtYT_PiaUkAk#v=onepage&q=machine%20learning&f=false
+-	Zhou V, March 2019, viewed 14 July 2017, Machine Learning for Beginners: An Introduction to Neural Networks, viewed 14 July 2017, https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9
+
+### Natural language processing 
+
+Natural language refers to the way we, communicate with each other through speech and text. (Brownlee 2017). While the processing of natural language, Natural Language Processing (NLP), is not a new science, the technology is rapidly advancing thanks to an increased interest in human-to-machine communications, plus an availability of big data, powerful computing and enhanced algorithms. (SAS 2019)
+Moore, an AI and Language Analytics Strategist, SAS describes Natural language processing as:
+    … a branch of artificial intelligence (AI) that helps computers understand, interpret and manipulate human language. In general terms, NLP tasks break down language into shorter, elemental pieces, and tries to understand relationships among those pieces to explore how they work together to create meaning. The combination of NLP, machine learning and human subject matter expertise holds the potential to revolutionize how we approach new and existing problems (Moore 2019). 
+
+Given the volume and importance of this type of data, we must have ways to understand and harness the value of natural language, as we do for other types of data. (Brownlee 2019). 
+
+But Natural Language Processing is difficult because of the: 
+
+-	complexity of representing, learning, and using
+-	ambiguity in meaning 
+-	interpretation needs real world experience, common sense, and contextual knowledge. (Shahriari 2019) 
+
+As the example below illustrates, depending on how the language is broken down into smaller pieces can dramatically affect the processing of its meaning:
 
 
 
