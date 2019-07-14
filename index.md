@@ -14,22 +14,27 @@ I am originally from Young NSW, but I have lived in Canberra, Melbourne and Sydn
 Jung and Myers Human metrics Typology Test
 
 http://www.humanmetrics.com/cgi-win/jtypes2.asp
+
 ENFJ
+
 Extraverted iNtuitive Feeling Judging ENFJs are the benevolent 'pedagogues' of humanity. They have tremendous charisma by which many are drawn into their nurturant tutelage and/or grand schemes. Many ENFJs have tremendous power to manipulate others with their phenomenal interpersonal skills and unique salesmanship. But it's usually not meant as manipulation -- ENFJs generally believe in their dreams, and see themselves as helpers and enablers, which they usually are.
 
 How to study – Learning style-assessment
 
 https://www.how-to-study.com/learning-style-assessment/
+
 According to this test I am a visual learner and learn best when information is presented in a written language format or in another visual format such as pictures or diagrams.
 
 Margerison-McCann Team Management - Team Role test
 
 https://www.123test.com/team-roles-test/
+
 I actually did this assessment at work which identifies my major and related role preferences on the Margerison-McCann Team Management Wheel. It had some interesting insights and it was also interesting to look at where other team members were situated on the wheel.
 
 #### Ideal job
 
 Information Policy Lead
+
 In this role they are looking for an experienced policy development professional with information and data management knowledge or experience to be part of a small team.
 
 
