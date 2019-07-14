@@ -576,9 +576,9 @@ However, developments in Artificial Intelligence could mean that passwords becom
 -	BBC News. (2012). No early ruling in McKinnon case. [online] Available at: https://www.bbc.com/news/uk-19506090 [Accessed 11 Jul. 2019].
 -	Backman, M. (2014). Home Depot: 56 million cards exposed in breach. [online] CNNMoney. Available at: https://money.cnn.com/2014/09/18/technology/security/home-depot-hack/ [Accessed 11 Jul. 2019].
 -	Bocetta, S. (2019). Is AI fundamental to the future of cybersecurity?. [online] CSO Online. Available at: https://www.csoonline.com/article/3402018/is-ai-fundamental-to-the-future-of-cybersecurity.html [Accessed 11 Jul. 2019].
--	 Itgovernance.co.uk. (n.d.). What is Cyber Security? | IT Governance UK. [online] Available at: https://www.itgovernance.co.uk/what-is-cybersecurity [Accessed 10 Jul. 2019].
--	 Espinosa, N. (2018). The Five Laws of Cybersecurity | Nick Espinosa | TEDxFondduLac. [online] YouTube. Available at: https://www.youtube.com/watch?v=_nVq7f26-Uo [Accessed 10 Jul. 2019].
--	 Oaic.gov.au. (n.d.). Information from the Australian Cyber Security Centre about preventing and mitigating data breaches| Office of the Australian Information Commissioner - OAIC. [online] Available at: https://www.oaic.gov.au/privacy-law/privacy-act/notifiable-data-breaches-scheme/information-from-the-australian-cyber-security-centre-about-preventing-and-mitigating-data-breaches [Accessed 11 Jul. 2019].
+-	Itgovernance.co.uk. (n.d.). What is Cyber Security?, IT Governance UK. [online] Available at: https://www.itgovernance.co.uk/what-is-cybersecurity [Accessed 10 Jul. 2019].
+-	Espinosa, N. (2018). The Five Laws of Cybersecurity, Nick Espinosa, TEDxFondduLac. [online] YouTube. Available at: https://www.youtube.com/watch?v=_nVq7f26-Uo [Accessed 10 Jul. 2019].
+-	Oaic.gov.au. (n.d.). Information from the Australian Cyber Security Centre about preventing and mitigating data breaches, Office of the Australian Information Commissioner - OAIC. [online] Available at: https://www.oaic.gov.au/privacy-law/privacy-act/notifiable-data-breaches-scheme/information-from-the-australian-cyber-security-centre-about-preventing-and-mitigating-data-breaches [Accessed 11 Jul. 2019].
 -	Liptak, K., Sciutto, J. and Schleifer, T. (2015). Experts: China might be building database of federal worker info - CNNPolitics. [online] CNN. Available at: https://edition.cnn.com/2015/06/04/politics/federal-agency-hacked-personnel-management/ [Accessed 11 Jul. 2019].
 -	Pagliery, J. (2014). What caused Sony hack: What we know now. [online] CNNMoney. Available at: https://money.cnn.com/2014/12/24/technology/security/sony-hack-facts/ [Accessed 10 Jul. 2019].
 -	Secureworks.com. (2017). Cybersecurity Programs of the Future: What Will ‘Bench Strength’ Look Like?. [online] Available at: https://www.secureworks.com/blog/cybersecurity-programs-of-the-future-what-will-bench-strength-look-llke [Accessed 11 Jul. 2019].
@@ -650,10 +650,15 @@ Commercially transparent images could be used for creating logos or web graphics
 
 
 ## Group reflection
+
 What went well?
+
 What could be improved?
+
 At least one thing that was surprising?
+
 At least one thing that you have learned about groups?
+
 Remember to include in your section on Tools how well you think your Github log of activity reflects your group’s work on this assignment
 
 Overall, while the group did face some initial challenges in its organisation and coordination, I feel that we did work well together. As in any group assignment, there were communication problems around allocating work and assigning responsibility. This was emphasised more due the the online nature of the course. Being unable to meet up in tutorials or at a physical location makes it harder for the group to properly communicate. However, after a slightly slow start the group pulled together well, with everyone proactively pitching in what work they would be comfortable doing. A member of our group also suggested and set up a Discord server to use to communicate with others. This allowed us all to talk in real time about the project and any difficulties faced. For instance when Tim asked the group about uploading files to Github, Sebastian was able to demonstrate with screenshots the correct method. The most surprising thing we found was how almost every member of the team stepped up independently to contribute when needed. In past group projects it is quite common to see only a few individuals do the majority of the work, while the remainder of the team does very little. In this project though, after an initial suggestion of how work should be assigned, everyone volunteered to take parts on themselves. 
