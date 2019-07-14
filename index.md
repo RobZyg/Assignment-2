@@ -182,10 +182,10 @@ Is this what it means for computers? How would we know when a computer has knowl
 This learning occurs by using algorithms and statistical models  in order to perform a specific task effectively without using explicit instructions, relying on patterns and inference instead. (Wikipedia 2019) These algorithms build mathematical models using sample data, known as training data, and they are able to adapt without being specifically programmed to do the task (Wikipedia 2019). They learn from previous computations to produce reliable, repeatable decisions and results. (SAS 2019)
 This sample data needs to include robust, inclusive samples, otherwise outputs can contain bias that can lead to misleading information that may advantage or disadvantage. Datasets used to train AI systems must be appropriate for the system they are used to train (Dawson - CSIRO 2019). Data use must be ethical and useful and must not allow unfair bias, breaches to privacy or security and be of sufficient quality and relevance for input into algorithms (Dawson - CSIRO 2019). If the data that is input is not appropriate, then the outputs will not be reliable.
 
-The Machine Learning Process
+### The Machine Learning Process
 
 The following are the steps common to most machine learning based projects:
-
+<img src= "https://github.com/RobZyg/Assignment-2/ML.jpg" >
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
