@@ -185,6 +185,7 @@ This sample data needs to include robust, inclusive samples, otherwise outputs c
 ### The Machine Learning Process
 
 The following are the steps common to most machine learning based projects:
+
 <img src= "https://github.com/RobZyg/Assignment-2/ML.jpg" >
 
 
