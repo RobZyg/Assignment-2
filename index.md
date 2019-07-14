@@ -14,28 +14,23 @@ Jung and Myers Human metrics Typology Test
 
 http://www.humanmetrics.com/cgi-win/jtypes2.asp
 ENFJ
-Extraverted iNtuitive Feeling Judging
-ENFJs are the benevolent 'pedagogues' of humanity. They have tremendous charisma
-by which many are drawn into their nurturant tutelage and/or grand schemes. Many
-ENFJs have tremendous power to manipulate others with their phenomenal
-interpersonal skills and unique salesmanship. But it's usually not meant as
-manipulation -- ENFJs generally believe in their dreams, and see themselves as
-helpers and enablers, which they usually are.
+Extraverted iNtuitive Feeling Judging ENFJs are the benevolent 'pedagogues' of humanity. They have tremendous charisma by which many are drawn into their nurturant tutelage and/or grand schemes. Many ENFJs have tremendous power to manipulate others with their phenomenal interpersonal skills and unique salesmanship. But it's usually not meant as manipulation -- ENFJs generally believe in their dreams, and see themselves as helpers and enablers, which they usually are.
 
 How to study – Learning style-assessment
 
 https://www.how-to-study.com/learning-style-assessment/
-According to this test I am a visual learner and learn best when information is
-presented in a written language format or in another visual format such as pictures or
-diagrams.
+According to this test I am a visual learner and learn best when information is presented in a written language format or in another visual format such as pictures or diagrams.
 
 Margerison-McCann Team Management - Team Role test
 
 https://www.123test.com/team-roles-test/
-I actually did this assessment at work which identifies my major and related role
-preferences on the Margerison-McCann Team Management Wheel. It had some
-interesting insights and it was also interesting to look at where other team members
-were situated on the wheel.
+I actually did this assessment at work which identifies my major and related role preferences on the Margerison-McCann Team Management Wheel. It had some interesting insights and it was also interesting to look at where other team members were situated on the wheel.
+
+#### Ideal job
+
+Information Policy Lead
+In this role they are looking for an experienced policy development professional with information and data management knowledge or experience to be part of a small team.
+
 
 ### <a href="https://github.com/Sakuramachi/My-Programs/blob/master/Assessment%201%20-%20Kim%20Chapman">Kim</a>
 
@@ -51,12 +46,7 @@ Interesting fact about myself: I did a year of high school exchange in the city 
 
 16 Personalites.com Personality Test
 
-Here we can see that my personality outcome is the 'Advocate' or INFJ-T. What this
-means is that I am mostly introverted and direct most of my mental energy towards
-my intuitive understanding of a situation or problem more so than observing.
-In addition to being less assertive in my interactions with other people. What this
-means for my behaviour when working in my team for the assignment is that I will
-most likely be the 'bond' of the group.
+Here we can see that my personality outcome is the 'Advocate' or INFJ-T. What this means is that I am mostly introverted and direct most of my mental energy towards my intuitive understanding of a situation or problem more so than observing. In addition to being less assertive in my interactions with other people. What this means for my behaviour when working in my team for the assignment is that I will most likely be the 'bond' of the group.
 
 Political Compass Test
 
@@ -65,6 +55,11 @@ As we can see from my results, I fit into the 'left/libertarian' section of the 
 Game of Thrones House Quiz
 
 This one was just for a bit of fun, however it is still relevant to my profile. As we can see from the result, I was placed in House Stark. I feel that this is apt as my parents are both from the UK, from Northern England and Scotland to be exact. I've always felt close to my northern English/Scottish heritage. The culture and history of the Stark's and the North in Games of Thrones was largely based on the northern parts of the UK in real life. How this relates to my co-operation with my group is that I do often times use a lot of parlance and colloquialisms from the region in my speech, I need to be wary that these aren't widely understand and should stic to a more 'standardised English' when communicating with members of my group and when creating input and text for the assignments.
+
+#### Ideal job
+
+My ideal job in IT would be working within the field in the space industry, for Space Ex, the job for my ideal position is as a senior software engineer for SpaceX, developing the software for their launch systems.
+
 
 ### <a href="https://robzyg.github.io/Assignment1/">Robert</a>
 
@@ -97,6 +92,11 @@ Personality code types: ‘The Teacher’ and ‘The Provider’
 
 What the results mean to me
 The results show that as I tend to be more extraverted where I am energised by engaging with others and generally enjoy interacting with people. I also tend to be more feeling where I value empathy, cooperation and compassion. I also believe that everyone has a responsibility to take care of those around them. I believe that these traits are accurately portrayed. My learning style preference is learning by doing. I agree with that, whilst I believe passive learning such as watching a lecture and reading is important I think that the best way to test what I have learnt is by actually doing it or, where possible, testing the boundaries. For example instead of watching someone programming, which is helpful to understand the principles, actually programming and testing different things is more beneficial to me than watching.
+
+#### Ideal job
+
+Cyber Security Consultant
+A Cyber Security Consultant is an advisor and guide. A consultant, will be able to design and implement the best security solutions for an organisation, company or government agency needs. They interact with stakeholders, draw up budgets, supervise teams, and research. They conduct security tests and probe for vulnerabilities. They have good technical and interpersonal skills. I am drawn by the position’s mix of requiring technical knowledge as well as leadership and negotiation skills. I am also drawn in dealing with people such as experts and clients to develop the best solution to the secure the data.
 
 ### <a href="https://sebastian-tipping.github.io/cpt110-Assignment1/">Sebastian</a> 
 
@@ -138,7 +138,12 @@ Agreeableness 71%
 Neuroticism 67%
 
 I am quite open and inquisitive and can think outside the box.
-I can be quite agreeable and put other people ahead of myself and can help and co-
+I can be quite agreeable and put other people ahead of myself and can help and co-operate I can look for team members that might struggle with something and help them to learn through a smaller team would be good because then it will be quieter and I will be more comfortable.
+
+#### Ideal job
+
+My ideal job is CyberSecurity
+This position includes leading a small team, planning and executing attacks attempting to breach the system.
 
 ### <a href="https://poddie62.github.io/RMIT/meandit">Tim</a> 
 
@@ -176,6 +181,11 @@ The creativity test showed the most expected results, ranking me above average i
 creativity. I have often been told growing up that I was quite creative, and this test
 confirmed those comments. However, it was interesting to explore the sub categories
 of creativity and where most people and myself ranked.
+
+#### Ideal job
+
+Complaints Manager
+This position involves handling a large number of complaints that have been escalated beyond the contact centres in which they started. The successful applicant would need to investigate complex cases within a large organisation, often spanning across multiple divisions or departments. They would also have to correspond with the complainants to reach a positive resolution, while also working to adhere to financial and business rules and regulations. Additionally, they would affect long term change by identifying and seeking to change business practises to reduce dissatisfaction in the future. 
 
 ## Industry Data
 
