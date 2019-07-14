@@ -639,3 +639,13 @@ Commercially transparent images could be used for creating logos or web graphics
 - Vincent, J 2018, ‘This free online tool uses AI to quickly remove the background from images’ The Verge, 2019 para 2, viewed 15 June 2019, https://www.theverge.com/2018/12/19/18148020/remove-bg-ai-background-foreground-without-photoshop
 
 
+## Group reflection
+What went well?
+What could be improved?
+At least one thing that was surprising?
+At least one thing that you have learned about groups?
+Remember to include in your section on Tools how well you think your Github log of activity reflects your group’s work on this assignment
+
+Overall, while the group did face some initial challenges in its organisation and coordination, I feel that we did work well together. As in any group assignment, there were communication problems around allocating work and assigning responsibility. This was emphasised more due the the online nature of the course. Being unable to meet up in tutorials or at a physical location makes it harder for the group to properly communicate. However, after a slightly slow start the group pulled together well, with everyone proactively pitching in what work they would be comfortable doing. A member of our group also suggested and set up a Discord server to use to communicate with others. This allowed us all to talk in real time about the project and any difficulties faced. For instance when Tim asked the group about uploading files to Github, Sebastian was able to demonstrate with screenshots the correct method. The most surprising thing we found was how almost every member of the team stepped up independently to contribute when needed. In past group projects it is quite common to see only a few individuals do the majority of the work, while the remainder of the team does very little. In this project though, after an initial suggestion of how work should be assigned, everyone volunteered to take parts on themselves. 
+
+After discussing it on Discord together, we have all come to learn quite a few new things about working as a group. For instance, in order for the group to function it is important to have a platform that everyone can engage in and share ideas. Members of the group also felt that while we did not have a clear group leader that stepped up to allocate and assign work, we were still able to function to complete the project. Quite a few of us thought this was surprising, as while individual autonomy works well in self projects, group projects usually require a clear leader who steps up to organise everyone. Since the project lacked such a leader and still was completed, we learned that as long as we were all committed to success, no single individual needs to bear the burden of the work or organisation. 
