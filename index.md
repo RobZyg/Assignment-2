@@ -181,7 +181,7 @@ This learning occurs by using algorithms and statistical models  in order to per
 
 This sample data needs to include robust, inclusive samples, otherwise outputs can contain bias that can lead to misleading information that may advantage or disadvantage. Datasets used to train AI systems must be appropriate for the system they are used to train (Dawson - CSIRO 2019). Data use must be ethical and useful and must not allow unfair bias, breaches to privacy or security and be of sufficient quality and relevance for input into algorithms (Dawson - CSIRO 2019). If the data that is input is not appropriate, then the outputs will not be reliable.
 
-### The Machine Learning Process
+#### The Machine Learning Process
 
 The following are the steps common to most machine learning based projects:
 
@@ -218,7 +218,7 @@ These are being used for virtual assistants like Alexa or Siri or Cortana, trans
 
 The potential applications seem limitless as deep learning algorithms continue to perform better as they gain more experience, however, it is good to keep in mind that ethical principles should be followed when developing and using them. These should include ensuring benefits are greater than costs, they cause no harm or disadvantage, they’re legal, protect privacy, transparent, contestable and creators are accountable for impacts of algorithms.
 
-References:
+#### References:
 -	Bernard Marr (Forbes 2018), viewed on July 2019, What Is Deep Learning AI? A Simple Guide With 8 Practical Examples, https://www.forbes.com/sites/bernardmarr/2018/10/01/what-is-deep-learning-ai-a-simple-guide-with-8-practical-examples/#4faa26308d4b 
 -	Expert system, July 2019, What is Machine Learning? A definition https://www.expertsystem.com/machine-learning-definition/ viewed 9 July 2019
 -	Favio Vazquez, 22 December 2017, viewed 10 July 2019, Deep Learning made easy with Deep Cognition in Becoming Human: Artificial Intelligence Magazine https://becominghuman.ai/
@@ -272,7 +272,7 @@ The technology retrieves information to analyse unstructured text, then actively
 <img src= "https://raw.githubusercontent.com/RobZyg/Assignment-2/master/nlp.jpg" > 
 Ontotext, 2017, Top 5 Semantic Technology Trends to Look for in 2017, viewed 13 July 2019, https://www.ontotext.com/top-5-semantic-technology-trends-2017/
 
-### NLP and Deep Learning
+#### NLP and Deep Learning
 
 As illustrated in Shahriari’s example above, machine learning algorithms traditionally use well defined fixed-length inputs and outputs. But they cannot work with raw text directly; the text must be converted into numbers (specifically, vectors of numbers). This is called feature extraction or feature encoding, and this is one of the key areas where deep learning is challenging statistical methods with singular and simpler models. For this reason new methods are starting to outperform traditional statistical methods (Brownlee 2019). 
 
@@ -283,7 +283,7 @@ The following are three examples of what deep learning is capable of in the in t
 
 From these examples you can see that developing systems capable of these tasks would be valuable in a broad range of domains and industries. (Brownlee 2019) 
 
-### Chatbots
+#### Chatbots
 
 Chatbots use deep learning capabilities to automate user interactions with websites and social media sites. They are designed to interact or converse with users either via text input or verbal conversation (Hubspot 2019). They aim to seamlessly create a fully online interaction, that is available anytime. 
 
@@ -292,6 +292,29 @@ Sometimes though, users have unrealistic expectations of chatbots and expect tha
 An example of how this technology can still go wrong was Tay the Twitter chatbot, which was developed by Microsoft. Tay learned how to communicate with Twitter users to better understand how AI interacts with users. However, Tay only lasted 24 hours before being taken offline. As the inputs from users contained abusive content, Tay learned and created responses that were offensive, sexist and racist. The data being input was not appropriate, parameters were not sufficiently developed to filter these out, therefore outputs were not appropriate. (Dawson - CSIRO 2019).
 
 #### Other applications
+
+As NLP can be applied to any situation that needs rapid analysis of unstructured data, the applications are incredibly diverse. This has amazing potential to identify and categorise the overwhelming amount of data currently stored in uncontrolled environments, as the volume variety and velocity of growth mean that this is no longer possible for humans to do. 
+
+Intelligently analysed data is a valuable resource as it can lead to new insights, better decisions making and in commercial settings, competitive advantages. Conversely, not understanding data holdings could compromise service standards, increase exposure you to reputational damage, loss of data, high discovery, litigation and management costs throughout its lifecycle. Although it is difficult to quantify the full cost of managing this data throughout its lifecycle, we can all relate to the pace of growth qualitatively, and the exponential growing risks. 
+
+#### Looking ahead
+
+Future developments in NLP are occurring in the subfield of Natural language understanding (NLU). Its potential in cognitive and AI applications go beyond the structural understanding of language to interpret intent, resolve context and word ambiguity, and even generate well-formed human language on its own. These developments have a number of important implications but will first have to address the complex problem of semantic interpretation, to understand the meaning and subtleties of human language in many contexts (SAS 2019).
+
+Inexpensive storage has made it too easy to postpone decisions about what to do with data. Simply getting more memory and keep everything has been the solution for far too long but lying hidden in all this data is information, potential useful information, that we rarely make explicit or take advantage of (Witten 2017). The need to address the growing volume and variety of unstructured data, more than ever, relies on Natural Language processing and Machine learning in order to manage it and harness its full potential (SAS 2019).
+
+#### References
+- Brownlee, J, 22 September 2017, viewed  What is Natural Language Processing? in Deep Learning for Natural Language Processing https://machinelearningmastery.com/natural-language-processing/
+- The Botpress, 2019, viewed on 13 July 2019, The what’s & why of chatbots https://botpress.io/learn/what-and-why/
+- Dawson D and Schlieger E, Horton J, McLaughlin J, Robinson C, Quezada G, Scowcroft J, and Hajkowicz, (2019) viewed on 10 July 2017, Artificial Intelligence: Australia’s Ethics Framework, Data 61 CSIRO, Australia. https://consult.industry.gov.au/strategic-policy/artificial-intelligence-ethics-framework/supporting_documents/ArtificialIntelligenceethicsframeworkdiscussionpaper.pdf
+- Hubspot, by Munroe, M 2019, viewed 13 July 2019, Understanding the Difference Between a Bot, a Chatbot, and a Robot, https://blog.hubspot.com/customers/understanding-the-difference-between-a-chat-bot-and-robot
+- Mitkov, Ruslan, 2005, Page 377,  The Oxford Handbook of Computational Linguistics.
+- Moore, M B, SAS, 2019, viewed 6 July 2019, The untapped potential in unstructured text, SAS https://www.sas.com/en_au/insights/articles/analytics/the-untapped-potential-in-unstructured-text.html
+- Ontotext, 2017, Top 5 Semantic Technology Trends to Look for in 2017, viewed 13 July 2019, https://www.ontotext.com/top-5-semantic-technology-trends-2017/
+- SAS, 2019, viewed 10 July 2017, Natural Language Processing (IoT), https://www.sas.com/en_us/insights/analytics/what-is-natural-language-processing-nlp.html 
+- Shahriari, A, Department of Education and Training, viewed 11 July 2019, Natural Language Processing in practice: Facts and fiction, https://www.slideshare.net/Chief_Data_Officer_Forum/cdao-public-sector-2019-arash-shahriari-department-of-education-and-training? 
+- Witten H, Frank E, Hall M, Pal CJ, 2017, viewed 10 July 2019, Data Mining: Practical Machine Learning Tools and Techniques 4th edition, https://books.google.com.au/books?hl=en&lr=&id=1SylCgAAQBAJ&oi=fnd&pg=PP1&dq=machine+learning&ots=8IFLpcnyta&sig=d7Yxy-RNub2pon9VtYT_PiaUkAk#v=onepage&q=machine%20learning&f=false  
+
 
 
 
