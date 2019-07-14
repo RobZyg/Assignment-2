@@ -411,9 +411,9 @@ Computational modelling of human language requires an understanding of:
 Acquiring and encoding this knowledge is one of the fundamental impediments to developing effective and robust language systems (Ritkov 2005).
 
 Moore explains that to be able to make sense of all this information requires a combination of three capabilities: 
-> -	Natural language processing - Performs linguistic analysis that essentially helps a machine read text. It analyzes and converts text into form representations for text processing and understanding. This includes methods such as tokenization, part of speech tagging, stemming, named entity recognition and more.
-> -	Machine learning - Once NLP has been applied to text, machine learning uses the output for data mining and machine learning algorithms to automate the generation of key insights and descriptive analytics.
-> -	Human input - When it comes to analyzing text, human input is still incredibly important. Subject matter expertise is applied in the form of linguistic rules to help the machine capture slang, detect sarcasm and provide relevant context.
+ -	Natural language processing - Performs linguistic analysis that essentially helps a machine read text. It analyzes and converts text into form representations for text processing and understanding. This includes methods such as tokenization, part of speech tagging, stemming, named entity recognition and more.
+ -	Machine learning - Once NLP has been applied to text, machine learning uses the output for data mining and machine learning algorithms to automate the generation of key insights and descriptive analytics.
+ -	Human input - When it comes to analyzing text, human input is still incredibly important. Subject matter expertise is applied in the form of linguistic rules to help the machine capture slang, detect sarcasm and provide relevant context.
 
 The technology retrieves information to analyse unstructured text, then actively learns from the data through sentiment analysis and machine translation along with human direction to generate new insights. The purpose of this is to build and deploy text analytics models that enable understanding through topic detection, contextual extraction, document categorisation and sentiment analysis (SAS 2019).
 
@@ -425,9 +425,9 @@ Ontotext, 2017, Top 5 Semantic Technology Trends to Look for in 2017, viewed 13 
 As illustrated in Shahriari’s example above, machine learning algorithms traditionally use well defined fixed-length inputs and outputs. But they cannot work with raw text directly; the text must be converted into numbers (specifically, vectors of numbers). This is called feature extraction or feature encoding, and this is one of the key areas where deep learning is challenging statistical methods with singular and simpler models. For this reason new methods are starting to outperform traditional statistical methods (Brownlee 2019). 
 
 The following are three examples of what deep learning is capable of in the in the field of natural language processing: (Brownlee 2019) 
-> -	Automatic Image Caption Generation - is the task where, given a photograph, the system must generate a caption that describes the contents of the image.
-> -	Automatic Translation of Text - is the task where you are given sentences of text in one language and must translate them into text in another language.
-> -	Automatic Text Classification - is the task of assigning a class label given a text document such as a review, tweet, or email. (Brownlee 2019)
+ -	Automatic Image Caption Generation - is the task where, given a photograph, the system must generate a caption that describes the contents of the image.
+ -	Automatic Translation of Text - is the task where you are given sentences of text in one language and must translate them into text in another language.
+ -	Automatic Text Classification - is the task of assigning a class label given a text document such as a review, tweet, or email. (Brownlee 2019)
 
 From these examples you can see that developing systems capable of these tasks would be valuable in a broad range of domains and industries. (Brownlee 2019) 
 
