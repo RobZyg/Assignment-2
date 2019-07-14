@@ -180,6 +180,7 @@ But what does learn mean for computers, is it the same as learning for humans?  
 Learning is to acquire knowledge of or skill in by study, instruction or experience (Macquarie 2010)
 Is this what it means for computers? How would we know when a computer has knowledge or a skill? Afterall, you can receive instruction without benefiting from it at all if it can’t be applied. It seems that learning in this context is more linked to performance and ability to apply learnings rather than building knowledge (Witten 2017).  
 This learning occurs by using algorithms and statistical models  in order to perform a specific task effectively without using explicit instructions, relying on patterns and inference instead. (Wikipedia 2019) These algorithms build mathematical models using sample data, known as training data, and they are able to adapt without being specifically programmed to do the task (Wikipedia 2019). They learn from previous computations to produce reliable, repeatable decisions and results. (SAS 2019)
+
 This sample data needs to include robust, inclusive samples, otherwise outputs can contain bias that can lead to misleading information that may advantage or disadvantage. Datasets used to train AI systems must be appropriate for the system they are used to train (Dawson - CSIRO 2019). Data use must be ethical and useful and must not allow unfair bias, breaches to privacy or security and be of sufficient quality and relevance for input into algorithms (Dawson - CSIRO 2019). If the data that is input is not appropriate, then the outputs will not be reliable.
 
 ### The Machine Learning Process
@@ -205,7 +206,7 @@ Machine learning over time
 
 As you can see this has been around since the 1980s so what is behind the lastest surge in popularity? New computing technologies are transforming machine learning so it is not like machine learning of the past. 
 
-<img src= "https://github.com/RobZyg/Assignment-2/blob/master/AI.jpg" >
+<img src= "https://raw.githubusercontent.com/RobZyg/Assignment-2/master/AI.jpg" >
 The evolution of artificial intelligence, machine learning, and deep learning. (Image source: Tandon 2016)
 
 Deep learning is a subset of machine learning where artificial neural networks, algorithms inspired by the human brain, learn from large amounts of data. (Marr 2018). Deep learning combines advances in computing power and special types of neural networks to learn complicated patterns in large amounts of data (SAS 2019).
