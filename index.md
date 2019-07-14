@@ -4,11 +4,13 @@
 
 ### <a href="https://sway.office.com/95J6PEHbirhDgDnL?ref=Link&loc=play">Genevieve</a>
 - Australian
+
 Education:
 -Bachelor of Information Technology (currently studying)
 - Certificate IV in Training and Assessment – 2007
 - Bachelor of Taxation 1997 (incomplete)
 - Certificate in Small Business Enterprise - 1996
+
 Interesting fact/hobby:
 - I did a tour of the Sydney Harbour Tunnel when it was being built in 1991
 
