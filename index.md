@@ -238,7 +238,7 @@ References:
 
 Natural language refers to the way we, communicate with each other through speech and text. (Brownlee 2017). While the processing of natural language, Natural Language Processing (NLP), is not a new science, the technology is rapidly advancing thanks to an increased interest in human-to-machine communications, plus an availability of big data, powerful computing and enhanced algorithms. (SAS 2019)
 Moore, an AI and Language Analytics Strategist, SAS describes Natural language processing as:
-    … a branch of artificial intelligence (AI) that helps computers understand, interpret and manipulate human language. In general terms, NLP tasks break down language into shorter, elemental pieces, and tries to understand relationships among those pieces to explore how they work together to create meaning. The combination of NLP, machine learning and human subject matter expertise holds the potential to revolutionize how we approach new and existing problems (Moore 2019). 
+> … a branch of artificial intelligence (AI) that helps computers understand, interpret and manipulate human language. In general terms, NLP tasks break down language into shorter, elemental pieces, and tries to understand relationships among those pieces to explore how they work together to create meaning. The combination of NLP, machine learning and human subject matter expertise holds the potential to revolutionize how we approach new and existing problems (Moore 2019). 
 
 Given the volume and importance of this type of data, we must have ways to understand and harness the value of natural language, as we do for other types of data. (Brownlee 2019). 
 
