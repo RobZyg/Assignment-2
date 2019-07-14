@@ -2,9 +2,17 @@
 
 ## Team Winterfell
 
-### Genevieve
+### <a href="https://sway.office.com/95J6PEHbirhDgDnL?ref=Link&loc=play">Genevieve</a>
+- Australian
+Education:
+-Bachelor of Information Technology (currently studying)
+- Certificate IV in Training and Assessment – 2007
+- Bachelor of Taxation 1997 (incomplete)
+- Certificate in Small Business Enterprise - 1996
+Interesting fact/hobby:
+- I did a tour of the Sydney Harbour Tunnel when it was being built in 1991
 
-### Kim
+### <a href="https://github.com/Sakuramachi/My-Programs/blob/master/Assessment%201%20-%20Kim%20Chapman">Kim</a>
 
 Hobbies and interests: Learning Japanese and Spanish, amateur astonomy, history, reading, gym and technology.
 Favourite TV series: Star Trek.
@@ -12,11 +20,11 @@ Favourite film genre: Historical Drama and Sci Fi.
 Favourite book series: Lord of the Rings.
 Interesting fact about myself: I did a year of high school exchange in the city of Nagoya, Japan. The friends I made from my exchange are still close friends today.
 
-### Robert  <a href="https://robzyg.github.io/Assignment1/">Robert</a>
+### <a href="https://robzyg.github.io/Assignment1/">Robert</a>
 
 I am originally from Melbourne and I moved up to Canberra about three years ago for work. I have a Master of Law and work as a Privacy Lawyer for a Government Department. I enjoy playing and watching sport such as Australian Rules Football and soccer.
 
-### Sebastian
+### <a href="https://sebastian-tipping.github.io/cpt110-Assignment1/">Sebastian</a> 
 
 I was born in Melbourne and have lived here all my life but have travelled around. 
 I am European and only speak English.
@@ -26,7 +34,7 @@ I have also done 2 previous University courses which have been General Physics t
 
 I have my own custom rig that I built a little over 2 years ago and love to play a variety of games.
 
-### Tim
+### <a href="https://poddie62.github.io/RMIT/meandit">Tim</a> 
 
 I was born and raised in Victoria. My parents are both Australian; however my grandparents were Czech refugees, who fled to Australia after world war two. I am agnostic, but was educated at a private catholic school in Melbourne, before briefly attending Deakin University. After deferring at the end of the second semester, I opted to work fulltime instead. I started working in Superannuation in late 2017, and have been there since. In May of 2019 I decided to advance my education by studying a Bachelor of Business online with RMIT, while still working. I enjoy reading, playing games on computers and playing tennis. While growing up, I had a pet Miniature pig that lived in the house with us. His name was Christopher.
 
