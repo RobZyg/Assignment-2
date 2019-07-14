@@ -74,6 +74,30 @@ I am originally from Melbourne and I moved up to Canberra about three years ago 
 
 #### Profile
 
+Results of the Myer-Briggs test:
+personality type is: Consul
+- 76% extraverted
+- 61% observant
+- 61% feeling
+- 61% tactics
+- 53% assertive
+
+Results of the Learning styles test:
+- Kinesthetic 69
+- Visual 51
+- Auditory 49
+
+Results of the TypeFinder Personality test
+- 63% extraverted
+- 51% intuition
+- 55% feeling
+- 60% judging
+
+Personality code types: ‘The Teacher’ and ‘The Provider’
+
+What the results mean to me
+The results show that as I tend to be more extraverted where I am energised by engaging with others and generally enjoy interacting with people. I also tend to be more feeling where I value empathy, cooperation and compassion. I also believe that everyone has a responsibility to take care of those around them. I believe that these traits are accurately portrayed. My learning style preference is learning by doing. I agree with that, whilst I believe passive learning such as watching a lecture and reading is important I think that the best way to test what I have learnt is by actually doing it or, where possible, testing the boundaries. For example instead of watching someone programming, which is helpful to understand the principles, actually programming and testing different things is more beneficial to me than watching.
+
 ### <a href="https://sebastian-tipping.github.io/cpt110-Assignment1/">Sebastian</a> 
 
 Student ID: S3752148
