@@ -12,13 +12,9 @@ Favourite film genre: Historical Drama and Sci Fi.
 Favourite book series: Lord of the Rings.
 Interesting fact about myself: I did a year of high school exchange in the city of Nagoya, Japan. The friends I made from my exchange are still close friends today.
 
-### Robert https://robzyg.github.io/Assignment1/
+### Robert  <a href="https://robzyg.github.io/Assignment1/">Robert</a>
 
 I am originally from Melbourne and I moved up to Canberra about three years ago for work. I have a Master of Law and work as a Privacy Lawyer for a Government Department. I enjoy playing and watching sport such as Australian Rules Football and soccer.
-
-You can use the [editor on GitHub](https://github.com/RobZyg/Assignment-2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Sebastian
 
