@@ -3,16 +3,7 @@
 ## Team Winterfell
 
 ### <a href="https://sway.office.com/95J6PEHbirhDgDnL?ref=Link&loc=play">Genevieve</a>
-- Australian
-
-Education:
-- Bachelor of Information Technology (currently studying)
-- Certificate IV in Training and Assessment – 2007
-- Bachelor of Taxation 1997 (incomplete)
-- Certificate in Small Business Enterprise - 1996
-
-Interesting fact/hobby:
-- I did a tour of the Sydney Harbour Tunnel when it was being built in 1991
+I am originally from Young NSW, but I have lived in Canberra, Melbourne and Sydney. I am now back in Canberra where I work for the Australian Government. I have worked in many different fields during my career including customer service, training, information management and policy development. I enjoy many active pursuits and I’m currently training for City 2 Surf.
 
 ### <a href="https://github.com/Sakuramachi/My-Programs/blob/master/Assessment%201%20-%20Kim%20Chapman">Kim</a>
 
@@ -303,7 +294,7 @@ Future developments in NLP are occurring in the subfield of Natural language und
 
 Inexpensive storage has made it too easy to postpone decisions about what to do with data. Simply getting more memory and keep everything has been the solution for far too long but lying hidden in all this data is information, potential useful information, that we rarely make explicit or take advantage of (Witten 2017). The need to address the growing volume and variety of unstructured data, more than ever, relies on Natural Language processing and Machine learning in order to manage it and harness its full potential (SAS 2019).
 
-#### References
+#### References:
 - Brownlee, J, 22 September 2017, viewed  What is Natural Language Processing? in Deep Learning for Natural Language Processing https://machinelearningmastery.com/natural-language-processing/
 - The Botpress, 2019, viewed on 13 July 2019, The what’s & why of chatbots https://botpress.io/learn/what-and-why/
 - Dawson D and Schlieger E, Horton J, McLaughlin J, Robinson C, Quezada G, Scowcroft J, and Hajkowicz, (2019) viewed on 10 July 2017, Artificial Intelligence: Australia’s Ethics Framework, Data 61 CSIRO, Australia. https://consult.industry.gov.au/strategic-policy/artificial-intelligence-ethics-framework/supporting_documents/ArtificialIntelligenceethicsframeworkdiscussionpaper.pdf
@@ -316,35 +307,179 @@ Inexpensive storage has made it too easy to postpone decisions about what to do 
 - Witten H, Frank E, Hall M, Pal CJ, 2017, viewed 10 July 2019, Data Mining: Practical Machine Learning Tools and Techniques 4th edition, https://books.google.com.au/books?hl=en&lr=&id=1SylCgAAQBAJ&oi=fnd&pg=PP1&dq=machine+learning&ots=8IFLpcnyta&sig=d7Yxy-RNub2pon9VtYT_PiaUkAk#v=onepage&q=machine%20learning&f=false  
 
 
+### Blockchain and crytocurrencies
+
+Blockchain is a growing list of records, called blocks, that are linked using secure communication called cryptography. Each block contains a mathematical algorithm that maps the data of the previous block, a time stamp, and transaction data. Blockchain uses a distributed ledger, which is usually managed by a peer-to-peer network collectively adhering to a protocol for inter-node communication and validating new blocks. Once recorded, the data in any given block cannot be altered retroactively without alteration of all subsequent blocks, which requires consensus of the network majority (Decuyper, 2017) (Lantz, 2016) (Rubin, 2016).
+
+Blockchain should not be confused with cryptocurrencies, such as Bitcoin, which use blockchain to operate. The first cryptographically secured chain of blocks was described in 1991, however, blockchain really took off from the yet unidentified ‘Satoshi Nakamoto’ in 2008, when launching Bitcoin (Decuyper, 2017) (Rubin, 2016).
+
+Blockchain uses a decentralised, distributed and public digital ledger system where there are many holders of ledgers and depending on the set up of that blockchain protocol anyone can hold a ledger. Blocks hold batches of valid transactions that are encoded. Blocks can be produced concurrently, creating a temporary fork (Rubin, 2016). 
+
+In Bitcoin, blocks are given to the holders of ledges who typically try and solve a mathematical problem, which on average takes about 10 minutes by cycling through many different combinations (in the billions) to solve the problem. When a computer solves the problem it sends the solution to the other holders of the ledgers. If a consensus of the majority (more than 50%) of the holders of the ledgers agree with the solution the block from the block from the computer that first solved the problem is added to all the ledgers and a new math problem is for the new blocks is attempted to be solved by all the holders of the ledgers (Rubin, 2016). The computers that try to solve the math problems in bitcoin are called miners and are financially rewarded (currently 12.5 bitcoins, which is close to $150,000 USD) (Bitcoinblockhalf.com, n.d.) each time they are the first to solve the problem (BitInfoCharts, n.d.). This process is a proof of work system and makes bitcoin and blockchain difficult to manipulate or double spend currency (Tech Tips, 2014).
+
+This makes blockchain both secure and very trustworthy as the diffuse nature of the network ensure events are recorded without bias and are resistant to attack by even a relatively large number of bad actors. The record of transactions and balances remains secure as long as the majority (over 50 percent) of the  holders of the ledgers remain independent.
+
+Blockchain is a distributed ledger system with verifiable transactions. Through every subsequent transaction, the ledger is encrypted and verifiable throughout the chain. If there is a ledger with 1000 transactions, for instance, each transaction is verifiable through its previous and subsequent transaction. In short, blockchain can provide anonymity and trust to verify and audit any activity (Zahreddine, 2018).
+
+Currently, blockchain has been predominately focused on cryptocurrencies such as Bitcoin and Ethereum. The idea of cryptocurrencies is to create a currency that is decentralised and therefore not interfered with by a government, easy to transfer, trustworthy and in most circumstances does participants can remain anonymous. It is expected that cryptocurrencies will continue to grow, however, are unlikely to replace government backed currencies.  This is because more and more transactions are taking place online and e-commerce, is expanding. Given cryptocurrencies were developed for online transactions it is natural that they too will expand and been more common for everyday use. Furthermore, cryptocurrencies will provide appealing alternatives to fiat currencies in the inevitable event of a market correction for example they will be seen as place to store value like gold. When other currencies falter, people may turn to blockchain to safeguard their savings and move money across borders, strengthening the technology’s footprint while the wider economy struggles (Wintermeyer, 2018). It is still unclear as to how the job market will be impacted by cryptocurrencies (Pawłowski, n.d).
+
+However, blockchain has been expanding to other areas such as smart contracts. Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code. The code and the agreements contained therein exist across a distributed, decentralized blockchain network (Decuyper, 2017) (Frankenfield, 2019).
+
+Smart contracts permit trusted transactions and agreements to be carried out among disparate, anonymous parties without the need for a central authority, legal system, or external enforcement mechanism. They render transactions traceable, transparent, and irreversible. In a normal world process for getting a court-registered document as a proof, you would need to go to a lawyer, give them money in turn of their services and wait till you get the document that you need. Smart contracts can eliminate this need as they become a trusted source (Pratap, 2018).
+
+Blockchain is also developing further into the finance sector (Lantz, 2016). An example is the Australian Securities Exchanges (ASX) is undertaking a project that intends to replace the current CHESS share trading platform into a blockchain version. The ASX has given the following reasons why they are undertaking the project (Asx.com.au, n.d.):
+-	Operate for the benefit of issuers and end investors
+-	Take future needs into account
+-	Accessibility
+-	Ease of integration and global interoperability
+-	Availability, reliability and performance
+-	Privacy and security
+-	Operational efficiencies
+
+Another development is using blockchain in a supply chain to guarantee that the proper process and correct manufactures were used, for example to make sure that a fraudulent activity has not occurred within a pharmaceutical supply chain which can have life threatening effects. This will make auditing of supply chains more readily available, more efficient  and harder to compromise. It make the supply chain more safe and secure. (Lo, 2017)
+
+#### References:
+-	BitInfoCharts. (n.d.). Bitcoin (BTC) statistics - Price, Blocks Count, Difficulty, Hashrate, Value. [online] Available at: https://bitinfocharts.com/bitcoin/ [Accessed 10 Jul. 2019].
+-	Bitcoinblockhalf.com. (n.d.). Bitcoin Block Reward Halving Countdown. [online] Available at: https://www.bitcoinblockhalf.com/ [Accessed 9 Jul. 2019].
+-	Decuyper, X. (2017). How does a blockchain work - Simply Explained. [online] YouTube. Available at: https://www.youtube.com/watch?v=SSo_EIwHSd4 [Accessed 10 Jul. 2019].
+-	Decuyper, X. (2017). Smart contracts - Simply Explained. [online] YouTube. Available at: https://www.youtube.com/watch?v=ZE2HxTmxfrI [Accessed 10 Jul. 2019].
+-	Frankenfield, J. (2019). Smart Contracts: What You Need to Know. [online] Investopedia. Available at: https://www.investopedia.com/terms/s/smart-contracts.asp [Accessed 12 Jul. 2019].
+-	Lantz, L. (2016). TED Talks: The Blockchain Explained Simply. [online] YouTube. Available at: https://www.youtube.com/watch?v=KP_hGPQVLpA [Accessed 11 Jul. 2019].
+-	Lo, C. (2017). Blockchain in pharma: opportunities in the supply chain. [online] Pharmaceutical Technology. Available at: https://www.pharmaceutical-technology.com/digital-disruption/blockchain/blockchain-pharma-opportunities-supply-chain/ [Accessed 12 Jul. 2019].
+-	Pawłowski, J. (n.d.). How will cryptocurrencies affect the job market? - Vacancysoft. [online] Vacancysoft. Available at: https://vacancysoft.com/how-cryprocurrencies-affect-job-market/ [Accessed 12 Jul. 2019].
+-	Pratap, M. (2018). Everything You Need to Know About Smart Contracts: A Beginner’s Guide - By. [online] Hackernoon.com. Available at: https://hackernoon.com/everything-you-need-to-know-about-smart-contracts-a-beginners-guide-c13cc138378a [Accessed 10 Jul. 2019].
+-	Pharma Logistics. (2018). Blockchain: the next frontier for pharmaceutical supply chains. [online] Available at: https://www.pharmalogisticsiq.com/logistics/articles/blockchain-the-next-frontier-for-pharmaceutical-supply-chains [Accessed 12 Jul. 2019]. 
+-	Rubin, S. (2016). What is Blockchain. [online] YouTube. Available at: https://www.youtube.com/watch?v=93E_GzvpMA0 [Accessed 10 Jul. 2019].
+-	Tech Tips. (2014). What is a BitCoin? Explained - Tech Tips. [online] Available at: https://www.youtube.com/watch?v=cFj72hrUZt4 [Accessed 11 Jul. 2019].
+-	Wintermeyer, L. (2018). The Role Of Cryptocurrencies In Future Society. [online] Forbes.com. Available at: https://www.forbes.com/sites/lawrencewintermeyer/2018/10/26/the-role-of-cryptocurrencies-in-future-society/#5ab84748787d [Accessed 12 Jul. 2019].
+-	Zahreddine, M. (2018). Council Post: How Blockchain Will Revolutionize The Pharmaceutical Industry. [online] Forbes.com. Available at: https://www.forbes.com/sites/forbestechcouncil/2018/11/14/how-blockchain-will-revolutionize-the-pharmaceutical-industry/#76c6690c26e5 [Accessed 12 Jul. 2019].
+
+### Cybersecurity 
+
+Cybersecurity is the protection of computer systems from the theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide. Cybersecurity is becoming a larger issue as there is increased reliance on computer systems, the internet, wireless communication such as Wi-Fi and Bluetooth and the increasing use of the internet of things devices. The increasing reliance of these technologies means that there is an increasing number of systems and therefore more potential areas of vulnerabilities (Itgovernance.co.uk, n.d.).
+
+The most common tactic for network protection is a firewall. Firewalls can exist either as a software tool or a hardware device that is physically connected to the network (Oaic.gov.au, n.d.).
+
+Where an intruder has managed to circumvent the firewall and network security, the next element to the defence of the system is the antivirus tools which are designed to scan hardware for malicious code. The aim is to, at worst, quarantine the malicious code and, at best, remove it before it can spread (Oaic.gov.au, n.d.).
+
+Backup management is also an important piece of defending against cyberattacks. Backups allow organisations or individuals to mitigate risks with ransomware or other malicious code which may destroy data or software. Backups allow for the ability to recover quickly from an outage or data breach (Oaic.gov.au, n.d.).
+
+Training is possibly the most value defence against cyberattacks. The most successful organisations protecting themselves from cyberattacks are usually those who run regular sessions on how staff can mitigate risks to their systems (Cyber.gov.au, n.d.).
+
+Common areas where cybersecurity is prevalent:
+
+#### Financial systems
+
+Financial systems are seen as an ideal target for hackers as the possible financial return for being able to compromise a system makes it an enticing target. There are many ways to compromise financial systems, ranging from access personal customer data to create identity fraud, to actually transferring funds or using stolen credit card details to gain a direct financial benefit. There are also attacks designed to disrupt the services of financial institutions such as denial of service attacks. Financial institutions have been continuously developing ways to counter the attacks. This includes a wide range of measures such as two-step authentication for online transactions, being able to instantly pause stolen credit cards and detecting unusual transactions and notifying customers via email or SMS text messaging that an unusual transaction has occurred.  (Lin, 2017)
+
+#### Utilities and industrial equipment
+
+Computers control functions at many utilities, including coordination of telecommunications, the power grid, and valve opening and closing in water and gas networks. Cyberattacks can disrupt essential services which depending on the length of time they are out, can be catastrophic (Zetter et al., 2016).
+
+#### Consumer devices
+
+Desktop computers and laptops are commonly targeted to gather passwords or financial account information, or to construct a botnet to attack another target. Smartphones, tablet computers, smart watches, and other mobile devices such as quantified self devices like activity trackers have sensors such as cameras, microphones and may collect personal information. (Shahani, 2014)
+
+#### Businesses
+
+Businesses are common targets as they can hold financial and personal data. Sometimes the data breaches can give hackers a large windfall for example Home Depot (Backman, 2014) and Target Corporation (Staff, 2013) in the United States of America  having millions of customers’ credit card details breached. Furthermore, some cyberattacks are ordered foreign governments with the intent to spread their propaganda, sabotage targets.
+
+Not all attacks are financially motivated however; for example in the Sony Pictures attack of 2014 the motive appears to have been to embarrass with data leaks, and cripple the company by wiping workstations and servers  (Pagliery, 2014).
+
+#### Government
+
+Government and military computer systems are commonly attacked by activists and foreign powers. Local and regional government infrastructure such as traffic light controls, police and intelligence agency communications, personnel records, student records and financial systems are also potential targets as they are now all largely computerised (BBC News, 2012). Passports and government ID cards that control access to facilities which use RFID can be vulnerable to cloning (Liptak, Sciutto and Schleifer, 2015).
+
+#### Internet of things and physical vulnerabilities 
+
+The internet of things provides opportunities for misuse as the downside to creating more ease of use and connectivity. In particular, as the internet of things spreads widely, cyberattacks are likely to become an increasingly physical rather than a virtual threat. If a front door's lock is connected to the Internet, and can be locked/unlocked from a phone, then a criminal could enter the home at the press of a button from a stolen or hacked phone. People could stand to lose much more than their credit card numbers in a world controlled by internet of things devices (Vermesan and Friess, 2013).
+
+Currently most cybersecurity tools require human interaction or configuration. As an example, an IT team has to set up the antivirus system and backup schedules for an organisation and ensure that they are maintained. Artificial intelligence is expected to grow in the cybersecurity space (Secureworks.com, 2017).
+
+In the future, we should be able to rely on smart tools to handle the bulk of event monitoring and incident response. The next generation of firewalls should have machine learning technology built into them, allowing the software to recognise patterns in web requests and automatically block those that could be a threat (Bocetta, 2019).
+
+It is expected that the natural language capabilities of Artificial Intelligence will be the future of cybersecurity tools. The theory is that by scanning large portions of data across the internet, Artificial Intelligence systems can learn how cyberattacks originate and suggest solutions for decision makers within the organization (Bocetta, 2019).
+
+The downside of artificial intelligence is that it will not be cheap and it is likely that only large organisations will be the only ones who are capable of affording the first generation of security products. 
+
+Currently, the most common way for verification to access a system or identify an authorised user is via passwords. Internet users create passwords for each website or service that they subscribe to online. This system can be frustrating to maintain as well as vulnerable to attack if they rely on simple passwords or use the same one for multiple sites. (Espinosa, 2018) There have been improvements in password manager software performance in recent years, most of which aim to simplify and strengthen online security by removing a large portion of the manual effort from the task through algorithms that suggest and store passwords complex enough to reduce your chances of being hacked (Bocetta, 2019).
+
+However, developments in Artificial Intelligence could mean that passwords become a thing of the past. The idea is that the Artificial Intelligence would track every user within an organisation based on roles, privileges, and common actions. Any deviation from the norm would be flagged and require the person to use a second form of authentication, such as biometrics that scan fingerprints or facial features. This process could also of second form authentication could also extend to individuals accessing the internet and may make passwords a thing of the past (Bocetta, 2019).
+
+#### References:
+-	BBC News. (2012). No early ruling in McKinnon case. [online] Available at: https://www.bbc.com/news/uk-19506090 [Accessed 11 Jul. 2019].
+-	Backman, M. (2014). Home Depot: 56 million cards exposed in breach. [online] CNNMoney. Available at: https://money.cnn.com/2014/09/18/technology/security/home-depot-hack/ [Accessed 11 Jul. 2019].
+-	Bocetta, S. (2019). Is AI fundamental to the future of cybersecurity?. [online] CSO Online. Available at: https://www.csoonline.com/article/3402018/is-ai-fundamental-to-the-future-of-cybersecurity.html [Accessed 11 Jul. 2019].
+-	Itgovernance.co.uk. (n.d.). What is Cyber Security? | IT Governance UK. [online] Available at: https://www.itgovernance.co.uk/what-is-cybersecurity [Accessed 10 Jul. 2019].
+-	Espinosa, N. (2018). The Five Laws of Cybersecurity | Nick Espinosa | TEDxFondduLac. [online] YouTube. Available at: https://www.youtube.com/watch?v=_nVq7f26-Uo [Accessed 10 Jul. 2019].
+-	Oaic.gov.au. (n.d.). Information from the Australian Cyber Security Centre about preventing and mitigating data breaches| Office of the Australian Information Commissioner - OAIC. [online] Available at: https://www.oaic.gov.au/privacy-law/privacy-act/notifiable-data-breaches-scheme/information-from-the-australian-cyber-security-centre-about-preventing-and-mitigating-data-breaches [Accessed 11 Jul. 2019].
+-	Liptak, K., Sciutto, J. and Schleifer, T. (2015). Experts: China might be building database of federal worker info - CNNPolitics. [online] CNN. Available at: https://edition.cnn.com/2015/06/04/politics/federal-agency-hacked-personnel-management/ [Accessed 11 Jul. 2019].
+-	Pagliery, J. (2014). What caused Sony hack: What we know now. [online] CNNMoney. Available at: https://money.cnn.com/2014/12/24/technology/security/sony-hack-facts/ [Accessed 10 Jul. 2019].
+-	Secureworks.com. (2017). Cybersecurity Programs of the Future: What Will ‘Bench Strength’ Look Like?. [online] Available at: https://www.secureworks.com/blog/cybersecurity-programs-of-the-future-what-will-bench-strength-look-llke [Accessed 11 Jul. 2019].
+-	Shahani, A. (2014). NPR Choice page. [online] Npr.org. Available at: https://www.npr.org/sections/alltechconsidered/2014/08/06/338334508/is-your-watch-or-thermostat-a-spy-cyber-security-firms-are-on-it [Accessed 11 Jul. 2019].
+-	Vermesan, O. and Friess, P. (2013). Internet of Things: Converging Technologies for Smart Environments and Integrated Ecosystems. [online] Internet-of-things-research.eu. Available at: http://www.internet-of-things-research.eu/pdf/Converging_Technologies_for_Smart_Environments_and_Integrated_Ecosystems_IERC_Book_Open_Access_2013.pdf [Accessed 11 Jul. 2019].
+-	Wallace, G., Pepitone, J., O'Toole, J,. Isidore, C., Pagliery, J., and Johns, J., (2013). Target: 40 million credit cards compromised. [online] CNNMoney. Available at: https://money.cnn.com/2013/12/18/news/companies/target-credit-card/index.html [Accessed 11 Jul. 2019].
+-	Zetter, K., Zetter, K., Dreyfuss, E., Barrett, B., Matsakis, L., Barrett, B., Newman, L. and Newman, L. (2016). Inside the Cunning, Unprecedented Hack of Ukraine's Power Grid. [online] WIRED. Available at: https://www.wired.com/2016/03/inside-cunning-unprecedented-hack-ukraines-power-grid/ [Accessed 11 Jul. 2019].
+
+## Project Idea
+
+#### Overview 
+
+My project idea is to add an additional feature or functionality to digital cameras so that they can capture images of transparent or partially transparent objects and automatically retain their transparency.
+
+#### Motivation 
+
+Photographing items that are deteriorating is a common preservation strategy and many archives throughout the world do this to preserve transparencies and negatives. However, in the case of transparencies and negatives they lose some of their functionality and original qualities as transparencies are no longer transparent and negatives are no longer negatives. 
+
+#### Digital copying
+
+I work for National Archives of Australia and we have a preservation digitisation program to copy photographic records that are deteriorating or are at risk. Each year approximately 30,000 images are digitised and made accessible through RecordSearch and this includes negatives and transparencies. [National Archives of Australia (NAA) 2019, para 8] Photographic negatives and transparencies, (positive images) can be black and white or colour. 
+
+Like other photographic formats they have a gelatin image layer generally made of cellulose nitrate and acetate which can deteriorate irreversibly over time. When cellulose nitrate deteriorates it releases distinct acrid vapors (nitrogen oxides) that are corrosive to various materials and a human health risk. As acetate film deteriorates it releases acetic acid that gives it a vinegar smell (known as vinegar syndrome). As deterioration progresses the film base shrinks and becomes brittle, eventually the emulsion layer buckles and separates from the base. It can also develop bubbles under the emulsion layer and white crystalline deposits on the surface. Ideally, both nitrate and acetate negatives should be kept isolated from other collection material because of the damaging vapors they produce. (NAA 2019 para 3, 9 & 10)
+
+Copying photographic images is a standard preservation strategy. However, when negatives or transparencies are photographed, they lose their transparent quality and therefore some of their functionality. For example, in the case of transparent overlays for maps that were intended to be multilayered, you lose the ability to layer them, and depending on how they have been photographed ie one transparency over the map at a time, this may be difficult to reverse.
+
+<img src= "https://raw.githubusercontent.com/RobZyg/Assignment-2/master/1.jpg" >
+Rogers, S, An Aviation History Emergency, Indiegogo, viewed 16 June 2019, https://www.indiegogo.com/projects/an-aviation-history-emergency#/
+
+Copying photographic images is a standard preservation strategy. However, when negatives or transparencies are photographed, they lose their transparent quality and therefore some of their functionality. For example, in the case of transparent overlays for maps that were intended to be multilayered, you lose the ability to layer them, and depending on how they have been photographed ie one transparency over the map at a time, this may be difficult to reverse.
+
+<img src= "https://raw.githubusercontent.com/RobZyg/Assignment-2/master/2.jpg" > 
+Manifold.net, Layers, viewed 13 June 2019 http://www.georeference.org/doc/layers.htm 
+
+If they are photographed using lighting or a solid background this can be removed later with a photo editing tool such as Adobe Photoshop, Photo-Paint, Paint Shop Pro, GIMP, Paint.NET, StylePix, but this involves extra work and therefore resourcing and costs.
+
+Adding this function to camera software would mean that you would not have to download them elsewhere to edit them, they could immediately be ready to use or publish.
+
+#### Tool and technologies
+
+As the software to edit or re-colour backgrounds to transparent already exists, it should be possible to include this functionality into cameras now. In the case of removing an image’s background, there are already a few open-source algorithms that could be integrated into cameras. (TheVerge 2019). Others available include:
+
+Background burner https://burner.bonanza.com/
+Lunapic https://www110.lunapic.com/editor/?action=transparent
+
+The functionality should be able to be embedded into current camera software and hardware.
+
+#### Skills Required
+
+You would need a software engineer to add these open-source algorithms and integrate them into current camera technology. This is a very feasible project and is already most likely already available in other technology, such as those used by military and although they are separate both technologies could already be used on mobile devices such as phones.
+
+#### Outcome
+
+Apart from addressing the initial preservation issue, making instant transparent images would have many social and commercial applications in phone apps, graphic design, advertising, web publishing and many more.  The popularity of websites like PNGmart, that make available 43,429+ free high-quality, is indicative of the broad market for transparent images. Shutterstock also lists that they have 4,409,378 transparent stock photos, vectors, and illustrations available royalty-free. 
+
+Commercially transparent images could be used for creating logos or web graphics that will stand out on any colour background (Befunky 2019). Businesses, crafters or students could all use the images to create faint, delicate impressions for invitations or cards, or paired with text or graphs for a punchy visualization for a marketing campaign or assignment. You could combine semi-transparent images with other elements to create captivating overlays and textured effects. Shapes could be used as text-holders or to add a watermark to a design or document, the possibilities are only limited by your imagination (Canva 2019).
+
+#### References:
+- Background burner, Remove backgrounds from images, viewed 15 June 2019 https://burner.bonanza.com/
+- Be funky, 2019, Create Transparent Backgrounds with Ease, viewed 14 July 2019, https://www.befunky.com/features/transparent-background/
+- Canva, 2019, Create Soft, Dreamy Designs with Transparent Images, viewed 14 July 2017, https://www.canva.com/features/transparent-images/
+- Lunapic, Transparent Background Tool, viewed 15 June 2019, ihttps://www110.lunapic.com/editor/?action=transparent
+- Manifold.net, Layers, viewed 13 June 2019 http://www.georeference.org/doc/layers.htm
+- National Archives of Australia (NAA) 2019, Preserving photographs and microforms, viewed 12 June 2019, para  8 http://www.naa.gov.au/collection/preserving/photographs-and-microforms/index.aspx
+- National Archives of Australia (NAA) 2019, Preserving photographs, viewed 12 June 2019, paras 3, 9 & 10, http://www.naa.gov.au/information-management/managing-information-and-records/preserving/photographs.aspx
+- PNGMART, 2019, Download Free PNG Images Transparent Backgrounds, viewed 14 July 2019, http://www.pngmart.com/
+- Rogers, S, An Aviation History Emergency, Indiegogo, viewed 16 June 2019, https://www.indiegogo.com/projects/an-aviation-history-emergency#/
+- Vincent, J 2018, ‘This free online tool uses AI to quickly remove the background from images’ The Verge, 2019 para 2, viewed 15 June 2019, https://www.theverge.com/2018/12/19/18148020/remove-bg-ai-background-foreground-without-photoshop
 
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobZyg/Assignment-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
